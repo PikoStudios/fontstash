@@ -1,3 +1,12 @@
+# Font Stash Fork
+This fork is not an effort to revitalize this project, but rather to have a space for Muzzle to fetch from as a submodule. While keeping tracks to changes (required by the Font Stash license)
+
+## Change Log
+```
+Feb 10th, 2023
+ -  Forked project and updated README.md to include a change log and the notice above
+```
+
 *This project is not actively maintained.*
 
 Font Stash
